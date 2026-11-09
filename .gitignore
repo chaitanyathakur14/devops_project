@@ -2,7 +2,7 @@ venv/
 __pycache__/
 .DS_Store
 .dvc/tmp/
-data/raw/*
+data/raw/online_retail_II.xlsx
 data/processed/*
 models/*
 !data/raw/.gitkeep
