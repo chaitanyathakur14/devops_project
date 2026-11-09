@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.DS_Store
+.dvc/tmp/
+data/raw/*
+data/processed/*
+models/*
+!data/raw/.gitkeep
+!models/.gitkeep
