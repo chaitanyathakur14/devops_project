@@ -16,7 +16,7 @@ An end-to-end MLOps project implementing **Git**, **DVC (Data Version Control)**
 
 https://devopsproject-7xjvd56wzabyfrxcn7w2qx.streamlit.app/
 
-E009
+
 ## How to Run Locally
 1. Clone the repository and install dependencies:
    ```bash
